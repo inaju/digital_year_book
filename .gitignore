@@ -1,0 +1,10 @@
+play.py
+*.pyc
+*/migrations
+*/__pycache__
+db.sqlite3
+api_use.txt
+things_to_do.txt
+*.jpg
+media\47394395_1948461848792439_4963477022887116800_n.jpg
+media\*.jpg
